@@ -1473,7 +1473,7 @@ def zip_downloader(model):
 with gr.Blocks(theme=gr.themes.Base(), title='Mangio-RVC-Web 💻') as app:
     with gr.Tabs():
         with gr.TabItem("Inference"):
-            gr.HTML("<h1>  RVC V2 Huggingface Version </h1>")     
+            gr.HTML("<h1>  RVC V2 Huggingface Version ⁽ᴴᵘᵍᵍᶦⁿᶠᵃᶜᵉ ᵛᵉʳˢᶦᵒⁿ ᴹᵃᵈᵉ ᵇʸ ᶜˡᵉᵇᵉʳˢˡᵃ⁾   </h1>")     
 
             # Inference Preset Row
             # with gr.Row():
