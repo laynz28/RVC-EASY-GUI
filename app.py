@@ -1831,7 +1831,7 @@ with gr.Blocks(theme=gr.themes.Base(), title='Mangio-RVC-Web 💻') as app:
             with gr.Row():
                 gr.Markdown(
                 """
-                Made with ❤️ by [Alice Oliveira](https://github.com/aliceoq) | Hosted with ❤️ by [Mateus Elias](https://github.com/mateuseap)
+                Made with ❤️ by [Alice Oliveira](https://github.com/aliceoq) | Hosted with ❤️ by [Mateus Elias](https://github.com/mateuseap) | Huggingface Version by [Clebersla] (https://youtube.com/@Cleberslk1995)
                 """
                 )
 
