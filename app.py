@@ -1475,10 +1475,8 @@ with gr.Blocks(theme=gr.themes.Base(), title='Mangio-RVC-Web 💻') as app:
         with gr.TabItem("Inference"):
             gr.HTML("<h1>  RVC V2 Huggingface Version   </h1>")     
             gr.HTML("<h10>   Huggingface version made by Clebersla   </h10>")   
-            gr.HTML("<h4>  If you want to use this space privately, I recommend you duplicate the space. </h4>")
-            gr.Markdown(
-            "[![Duplicate this Space](https://huggingface.co/datasets/huggingface/badges/raw/main/duplicate-this-space-sm-dark.svg)](https://huggingface.co/spaces/r3gm/RVC_HF?duplicate=true)\n\n)        
-        
+            gr.HTML("<h4>  If you want to use this space privately, I recommend you duplicate the space.  </h4>")
+
             # Inference Preset Row
             # with gr.Row():
             #     mangio_preset = gr.Dropdown(label="Inference Preset", choices=sorted(get_presets()))
