@@ -1473,7 +1473,8 @@ def zip_downloader(model):
 with gr.Blocks(theme=gr.themes.Base(), title='Mangio-RVC-Web 💻') as app:
     with gr.Tabs():
         with gr.TabItem("Inference"):
-            gr.HTML("<h1>  RVC V2 Huggingface Version   </h1>")     
+            gr.HTML("<h1>  RVC V2 Huggingface Version   </h1>")    
+            gr.HTML("<h4>   Inference may take time because this space does not use GPU   </h4>")
             gr.HTML("<h10>   Huggingface version made by Clebersla   </h10>")   
             gr.HTML("<h10>   Coded by Rejekt's   </h10>")
             gr.HTML("<h4>  If you want to use this space privately, I recommend you duplicate the space.  </h4>")
