@@ -1,14 +1,4 @@
----
-title: RVC V2
-emoji: 💻
-colorFrom: blue
-colorTo: purple
-sdk: gradio
-sdk_version: 3.42.0
-app_file: app.py
-pinned: false
-license: lgpl-3.0
----
+## RVC V2 EASY GUI 
 
 ## 🔧 Pre-requisites
 
